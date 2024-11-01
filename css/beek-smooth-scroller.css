@@ -1,0 +1,9 @@
+
+#beek_smooth_scroller {
+	display: none;
+	opacity: 0.5;
+}
+
+#beek_smooth_scroller:hover {
+	opacity: 1.0;
+}
